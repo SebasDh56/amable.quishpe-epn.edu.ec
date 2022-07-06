@@ -29,6 +29,9 @@ public class Progrees_bar_a {
 					System.out.println("        amable.quishpe@epn.edu.ec");
 				}
 			}
+			//un issue es un error que me permitira corre el codigo con algun error no tan notable, en este caso es un issue por que el codigo corre pero no cumple su funcion 
+			// un errror no me deja correr el codigo 
+			// un bug es una vantaja que puedo tener del codigo
 		}
 		
     
